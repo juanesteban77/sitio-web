@@ -297,6 +297,8 @@ font-size: 30px;
     .texto-logo p{
       font-size: 12px;
       color: black;
+      width: 200px;
+      font-size: 19px;
     }
 
     .texto-buscador{
@@ -319,5 +321,7 @@ font-size: 30px;
   .container-final{
     height: 100vh;
   }
+
+  
   
   }
