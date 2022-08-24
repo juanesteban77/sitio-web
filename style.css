@@ -316,10 +316,11 @@ font-size: 30px;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    height: 90vh;
   
    }
   .container-final{
-    height: 100vh;
+    height: 130vh;
   }
 
   
