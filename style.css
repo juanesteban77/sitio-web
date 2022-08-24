@@ -291,6 +291,9 @@ font-size: 30px;
   }
 
   @media (max-width:500px) {
+    .logo .principal{
+      margin-left: 23px;
+    }
     .texto .titulo{
       text-align: center;
     }
